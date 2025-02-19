@@ -1,0 +1,15 @@
+FROM
+
+ADD
+
+COPY
+
+EXPOSE
+
+CMD
+
+ENTRYPOINT 
+
+USER
+
+
